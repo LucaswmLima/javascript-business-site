@@ -1,0 +1,19 @@
+{
+  "projetos": [
+    {
+      "nome": "Projeto 1",
+      "imagem": "caminho/para/imagem_projeto_1.jpg",
+      "link": "link/do/projeto_1"
+    },
+    {
+      "nome": "Projeto 2",
+      "imagem": "caminho/para/imagem_projeto_2.jpg",
+      "link": "link/do/projeto_2"
+    },
+    {
+      "nome": "Projeto 3",
+      "imagem": "caminho/para/imagem_projeto_3.jpg",
+      "link": "link/do/projeto_3"
+    }
+  ]
+}
